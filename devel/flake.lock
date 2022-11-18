@@ -210,11 +210,11 @@
     "src-compiler-devel": {
       "flake": false,
       "locked": {
-        "lastModified": 1668697483,
-        "narHash": "sha256-Ze5unqlvCMsZw4CYr5vg06DvRcZHyyJtuOO9ycofl9U=",
+        "lastModified": 1668753706,
+        "narHash": "sha256-gxQAI1e/nVyd6s62Ru+HzVqbdu8fo3rHzsC8KFlIvcA=",
         "owner": "nim-lang",
         "repo": "Nim",
-        "rev": "68f6926348da35c82a637ec3bc7f9ea0d761f615",
+        "rev": "fe43f751eb9a83f84cc93aa0d752c3658232002d",
         "type": "github"
       },
       "original": {
